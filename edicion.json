@@ -1,0 +1,16 @@
+{
+  "number":"001","date":"16.09.2026","day":"MIÉRCOLES",
+  "news":[
+    {"cat":"POLÍTICA","title":"Presupuesto 2027 ingresó a Diputados; debate previsto desde octubre","desc":"El proyecto abre una nueva etapa de discusión legislativa."},
+    {"cat":"POLÍTICA","title":"El crédito de los hogares entra en la discusión pública","desc":"La presión financiera familiar se incorpora a la agenda política."},
+    {"cat":"ECONOMÍA","title":"El Presupuesto 2027 fija el marco macroeconómico del próximo año","desc":"Inflación, tipo de cambio y actividad ordenan el debate económico."},
+    {"cat":"ECONOMÍA","title":"Los mercados miran las próximas decisiones de política monetaria","desc":"Las tasas vuelven a funcionar como señal para capital, crédito y actividad."},
+    {"cat":"TECNOLOGÍA","title":"La IA entra en una etapa de discusión sobre seguridad y regulación","desc":"La velocidad de desarrollo empieza a chocar con la gobernanza."},
+    {"cat":"TECNOLOGÍA","title":"Chips, modelos e infraestructura se vuelven asuntos de soberanía","desc":"La disputa tecnológica ya no ocurre solamente dentro del software."}
+  ],
+  "concept":"LA INFRAESTRUCTURA TAMBIÉN ES PODER",
+  "concept_text":"QUIEN CONTROLA LOS RECURSOS, LA TECNOLOGÍA, EL CRÉDITO Y LA CAPACIDAD DE DECISIÓN, DEFINE EL FUTURO.",
+  "tension":"Presupuesto, crédito, tasas, chips y modelos parecen discusiones distintas. Debajo comparten una pregunta: quién dispone de la infraestructura material y simbólica con la que se decide el mañana.",
+  "question":"¿Qué soberanía queda cuando la infraestructura que decide el futuro se diseña en otra parte?",
+  "nameky":["Un presupuesto es una arquitectura de poder. Dice qué se construye, qué se sostiene y qué se deja caer.","Un chip es una frontera. Un algoritmo, una forma de gobierno. La deuda también es una infraestructura: ata tiempos, condiciona decisiones, moldea futuros.","Entre Estados, mercados y máquinas, se disputa lo mismo de siempre: quién puede imaginar y construir un mundo distinto."]
+}
