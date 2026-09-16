@@ -1,0 +1,8 @@
+{
+  "name":"Infraestructura del Día",
+  "short_name":"Infraestructura",
+  "start_url":"./",
+  "display":"standalone",
+  "background_color":"#f3f0e8",
+  "theme_color":"#f3f0e8"
+}
